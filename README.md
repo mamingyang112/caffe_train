@@ -2,9 +2,9 @@
 
 The [full project repo](https://github.com/ZheC/Multi-Person-Pose-Estimation) includes matlab and C++ testing code.
 
-Customized caffe layer for data augmentation: data_transformer.cpp
+Customized caffe layer for data augmentation: [data_transformer.cpp](https://github.com/CMU-Perceptual-Computing-Lab/caffe_train/blob/master/src/caffe/data_transformer.cpp)
 
-We will merge the caffe testing version (https://github.com/CMU-Perceptual-Computing-Lab/caffe_rtpose) with this training version soon.
+We will remove the unnecssary experiments in the code, and merge it with the caffe testing version (https://github.com/CMU-Perceptual-Computing-Lab/caffe_rtpose) later.
 
 
 # Caffe
