@@ -1,3 +1,12 @@
+# Temporary Repo for training multi-person pose estimator
+
+The [full project repo](https://github.com/ZheC/Multi-Person-Pose-Estimation) includes matlab and C++ testing code.
+
+Customized caffe layer for data augmentation: data_transformer.cpp
+
+We will merge the caffe testing version (https://github.com/CMU-Perceptual-Computing-Lab/caffe_rtpose) with this training version soon.
+
+
 # Caffe
 
 [![Build Status](https://travis-ci.org/BVLC/caffe.svg?branch=master)](https://travis-ci.org/BVLC/caffe)
